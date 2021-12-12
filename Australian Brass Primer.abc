@@ -1,0 +1,535 @@
+I:abc-charset utf-8
+X:1
+T:Mudgee Waltz
+T:Mudgee, New South Wales 
+C:Traditional
+S:John Meredith Collection, NLA
+S:J Meredith, H Anderson, Folk Songs of Australia Vol 1, UNSW Press, p229, 1967
+O:Australia
+R:Waltz
+M:3/4
+L:1/8
+K:Gmaj
+[I: MIDI=program 59]"G"B,3CD2|G,3A,B,2|"C"C4E2|"Am"A,4D2|
+"D"F3ED2|"D7"D2E2C2|"G"B,4C2|"D"D4C2|
+"G"B,3CD2|G,3A,B,2|"C"C4E2|"Am"A,4D2|
+"D"F3ED2|"D"C2B,2A,2|"G"G,6|G,4-G, D||
+"G"B3AG2|B,3DG2|"D"F3EF2|"Am"A,4D2|
+"D"F3ED2|"Am"C2B,2A,2|"G"B,4E2|"D"D6|
+"G"B3AG2|B,3DG2|"D"F3EF2|"Am"A,4D2|
+"D"F3ED2|"D7"C2B,2A,2|"G"G,6|G,6||
+
+X:2
+T:Silver In My Mother's Hair
+C:Vince Courtney (-1951)
+L:1/4
+M:3/4
+I:linebreak $
+K:F
+C | A E F | _A2 F/G/ | A G3/2 F/ | c2 A/>C/ | F D F | G A C | F3- | F z D |$ B A G | A ^F D | 
+w: The|sil- ver that|lines ev- ry|cloud in the|sky, is a|won- der- ful|sight you will|say.|* But|I know of|sil- ver much|
+B A B | d2 B | A G F | D2 E/F/ | c2- c || C | A B =B |$ c d A | A2 _A | G2 G/A/ | B c B | B A ^G | 
+w: rich- er than|that. In-|creas- ing in|val- ue each|day. *|Ther's|no sil- ver|linl- ing in|an- y|cloud like the|sil- ver in|my mo- ther's|
+A3- | A z z | A B =B |$ c d3/2 A/ | A2 _A | G2 z | G A3/2 G/ | G F D | G3- | G z z | F G3/2 A/ | 
+w: hair.||No- thing so|pre- cious in|all the|world|no- thing with|it will com-|pare.||I've seen the|
+A B3/2 c/ |$ c2 =B | B3 | =B A G | G A G | G3- | G z C | A B =B | c d3/2 A/ | A2 _A | G2 G/>A/ |$ 
+w: dew- drop a-|pon the|rose,|I've seen the|Li- ly so|fair.|* But|no- thing I|see is as|dear to|me as the|
+B c B | B A G | F3- | F z z :| 
+w: sil- ver in|my mo- thers|hair.||
+
+
+
+X:3
+T:I'll Go To Sleep
+T:Act 1 Scene 1 from 'Don John of Austria' 1847
+C:music Isaac Nathan 1791-1864
+C:lyrics Jacob Levi Montefiore 1819-1885
+C:Royal Victoria Theatre, Sydney, NSW
+S:https://nla.gov.au:443/tarkine/nla.obj-166020148
+O:Australia
+R:Lullaby
+Q:"adagio" 1/4=90
+M:6/8
+L:1/8
+K:Cmaj
+[I:MIDI=program 59]C/2D/2|E2E_E2E/2E/2 | =E2EG2F/2E/2 | E/2 D3/2 D_E2E | 
+w:When a man has tiol'd thro the live long day, 'Till his spirits *are worn with
+D2GD2z/2D/2 | EEE_E2E | =E2c^G2G/2G/2 | 
+w:care a-way. From what can his soul such com-fort reap as from
+ABc(cA)^F | (DE) ^FG2z | A2DG2z|c2^FG2G | 
+w:ta-king a draught * of bal-*my sleep. Ba-lmy sleep. Ba-lmy sleep. From
+G E c (BA) G | G/2 C/4D/4E/4F/4G/4A/4 B/4c/4d/4c/4 A2c/2c/2 | 
+w:what can his soul* such com - -----fort ***reap as from
+e/2c/2 E GA2G | GD G C2z | F2B,C2z | F2B,C2z| A2G(C3 | C3C2)z :| 
+w:tak-*ing a draught of bal--my sleep. Bal-my sleep. Bal-my sleep. Bal-my sle--ep
+W: 
+W:I'm sleepy I scarcely can open my eyes
+W:Oh dear do you know where the soul of sleep lies
+W:Ah it's all very fine through my lashes to peep
+W:But I can't keep awake so I'll go to sleep, go to sleep, go to sleep
+W:Ah it's all very fine through my lashes to peep
+W:But I can't keep awake so I'll go to sleep, go to sleep, go to sleep
+
+X:4
+T:An Australian Hymn
+T:'Look Down Oh Lord' 1901
+C:lyrics John Sandes (1863-1938) 
+C:music Louis Lavater (1867 – 1953)
+L:1/4
+M:4/4
+I:linebreak $
+K:Eb
+[I: MIDI=program 59]G, | C D _E G | F _E/D/ C D | _E2 D2 |$ C3 _B, | _E F G _B | _A G/F/ _E F | G2 F2 |$ _E3 G | G F/_E/ D _ | 
+w: Look|down Oh lord of|light up- * on our|Aus- tral|Land. Pro-|tect her by the|sleep- less * might of|thy strong|hand A|cross Up * on her|
+C2 D2 | G F/_E/ F _E |$ D3 G, | C D _E G | F _E/D/ C D | _E2 D2 |$ C3 :| 
+w: brow was|set long * since for|sign. Oh,|crown her mid the|na- tions * now with|love di-|vine|
+
+
+
+X:5
+T:Sleepy Seas
+T:Melbourne 1920
+C:Reginald Stoneham 1879-1942
+L:1/4
+M:3/4
+I:linebreak $
+K:G
+z G, ^G, | A,2 C/E/ | G B G | A3 | B,2 G,/A,/ | B, D =F | A B3/2 G/ | A3- | A z G,/^G,/ | 
+w:Oh the wind played a me-lo-dy ten-der as it played through the palms by the shore * there she 
+A,2 C/E/ | G2 A/^A/ |$ B2 G | D ^C D | E ^D E | F2 D | G3- | G G, ^G, | A,2 C/E/ | G B3/2 G/ | 
+w:drooped in my arms, with her smiles and her charms, that I'll wor-ship for-ever more. *her lips are like the heart of a 
+A3 | B,2 G,/A,/ | B, D =F | A B3/2 A/ |$ ^G3- | ^G2 G | A =G E | ^C2 A, | =F E D | =F2 C/D/ | 
+w:rose bud their * sweet-ness is wait-ing for me * though now far a-way I'll go back some day to a 
+E- E/>G/ A/>G/ | D- D/>G/ A/>G/ | c3- | c z2 |] 
+w:bride *that waits be-side * the slee-py sea.
+
+X:6
+T:Aeroplane Jelly
+T:1930
+C:Albert Lenertz 1891-1943
+S:https://nla.gov.au/nla.obj-181524182
+O:Australia 
+L:1/4
+M:3/4
+I:linebreak $
+K:C
+[I: MIDI=program 59]FEF | DEF | G^FG | E2E/E/ | D^FG | ABc | B(G2 | G2)G/G/ | 
+w:I've got a song that won't take ve-ry long. Quite a good sort of note if I strike it. It is
+A^GA | c2B/A/ | G^FG | c2^F/E/ | D^FG | ABc | BG2 | Z ||
+w:some-thing we eat, and I think it's quite sweet, and I know you are go-ing to like it
+|:C2D | EDC | E(G2 | G2)z | ccc | dcB | (c3 | c2)E
+w:I like ae-ro-plane Je-lly*Ae-ro-plane Je-lly for me. *I
+FEF | DEF | G^FG | E2G | AAA | ABc | dBA | G2G | 
+w:like it for Break-fast I like it for tea. A lit-tle each day is a great re-ci-pe. The
+ccc | cdB | AAA | A2G/G/ | A^GA | cBA | GFE | D3 | 
+w:qua-li-ty's high as the name would im-ply, and it's made from pure fruit, one more good rea-son why
+C2D | EDC | E(G2 | G3)ccc|dcB(c3|c2)z :| 
+w:I like ae-ro-plane Je-lly * Ae-ro-plane Je-lly for me!
+
+X:7
+T:Advance Australia Fair
+T:1886
+C:Peter Dodds McCormack
+C:(1833-1916)
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+D G D B, | D G- G/G/ G | B A G F | G A2 z | D G D B, | G, D- D/D/ D | B A G F | E D z2 | 
+D E- E/F/ G |$ E D- D/B,/ B, | D E G =c | B A z2 | D E- E/F/ G | E D- D/G/ G | A B- B/G/ A- | 
+A/F/ G3 | B =c B A | G F E D |$ G B- B/G/ A- | A/F/ G3 |] 
+
+
+
+
+
+X:8
+T:Christmas in Australia
+T:1864 Victoria, Australia
+C:Georger Tolhurst
+L:1/4
+M:3/4
+Q:"allegro" 1/4=140
+I:linebreak $
+K:G
+(D G) | B B B | B c B | B A2 | z A A | A{c} B A | A F D | d3 |$ z d c | B B B | B A G | G c2 | 
+w: Old *|Christ- mas you're|wel- come as|ever, *|be the|garb that you|wear what it|may,|For there's|no- thing our|hearts can dis-|se- ver,|
+z e2 | d A B | c B A | G3 | z B B |$ B ^G E | e d B | B c2 | z (A B) | c A F | e d c | B3 | 
+w: From|thou and thy|gen- i- al|sway,|Let your|man- tle be|verdant * or|hoary, *|your *|ad- vent in|summer * or|snow.|
+z (G A) | B B B | B A G |$ G e2 | z e e | d A B | c B A | G3 :| 
+w: You are|greeted * in|carol * and|sto- ry,|and it's|sun shine where|wv- er you|go.|
+
+X:9
+T:They Say It's A Crime
+T:1963 Queensland, Australia
+C:Dougie Young (1933-1991)
+L:1/4
+M:4/4
+I:linebreak $
+K:none
+[K:G] z E/E/ ^c/c/ c | B B/B/ A A | ^G F/F/ G F | E ^D =D z |$ E/E/ ^G G B | E/E/ ^G G B | 
+w: Well they Say it's a|crime drink- ing bear and|wine as can lead a|poor man astray|when it comes to grog|I'm a fair dinkum hog|
+z/ E/E/E/ F E | ^C z z2 :| 
+w: Guess I was born that|way.|
+
+X:10
+T:Four Little Johnny Cakes
+T:1938 Australia
+C:words Banjo Paterson 1864-1941
+C:music Louis Lavater 1867-1953
+S:http://nla.gov.au/nla.obj-175483431
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+C | F2 FF AFFG | AFFF F2 D>D | G>G GG BGGA | B2{G} AB c2 z c/c/ | ddcB c A2{A} G |$ BBAG A2 z C | 
+w:Hurr-ah for the Lach-lan lads, and join me in a cheer. That is the place to go to make an ea-sy cheque each year With a toad-skin in my pock-et I borr-owed from a friend. Oh
+(3FFF FF AFFG |[M:2/4] AG{=B} A=B |[M:4/4] c4- c2 C>C | F<F F2 A2 F2 | AFFF F2 z D |$ GGGG BGGA | 
+w:Oh, isn't it nice and co-sy to be cam-ping in the bend? *With my lit-tle round flour-bag sit-ting on a stump. My My little tea and sug-ar bag
+BGAB c2 c>c | dc B2 c2 A2 | c2 A>G A2 z C | F2 FF AFFG | AFFF F2 z2 :| 
+w: looking nice and plump. A lit-tle fat* cod-fish just off the* hook. And four lit-tle john-ny cakes, a cre-dit to the cook
+
+X:11
+T:Happy Today
+T:Le Perouse Universal Mission to Aborigines 1935
+C:Tom Foster 1870-1942
+C:First Nations Dharwal Man
+O:New South Walses
+S:https://nla.gov.au/nla.obj-181580080
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+A, | F>EF D>CD | E>DE B,2 B,/B,/ | C3 A,2 A, | F3 F z A/A/ | F>^EF D>CD | E>^DE B,2 A/A/ | 
+w:I'm Ha-ppy to-day
+^G3 F2 E |$ A3 C z A, | A2 F D2 B, | C3 C z A, | A2 G E2 G | F3 F z A, | FFF FEF | G2 A B2 B | 
+AAD FFE |$ D3 D z2 :| 
+
+X:12
+T:You Sang To Me
+T:Geraldton Western Australia 1916
+C:Walter Marwood Du Boulay (1882-1942)
+C:Geraldton, Western Australia
+S:http://nla.gov.au/nla.mus-an11851478
+L:1/8
+M:4/4
+I:linebreak $
+K:Ebmaj
+[I:MIDI=program 59]G,|G4^F2G2|A6G2|G2D2=E2GF | =E2Z|$
+w:You sa-ng to me in those bright days *of old;
+w: You sa-ng to me, I hear those old* songs yet
+=E4F2E2 | =B4=A4 | =A2D2G^F=F2 | =E4Z|$
+w:Youth in it's glad-ness turned life's stream *to gold;
+w:Their mem 'ry lives; their ec-ho brings* re-gret
+G4^F2G2 | A4G4 | G2D2E2D2 | C4Z|$
+w:Years bring but sad-ness, heads are bent and grey;
+w:I wait in si-lence, all I wait up-on
+C4E2G2 | c2G2!fermata!A4 | A!fermata!G2C!fermata!E2D2 | C4Z:|
+w:God in his wis-dom gave, then took, then took a-way
+w:Is marred by  one great dis-chord-ant note, Thou art gone.
+
+X:12
+T:Westralian Wildflower Waltz
+T:1920 Perth, Western Australia
+C:Frederick Barwick (1874-1944)
+C:Geraldton, Western Australia
+S:nla.obj-166353901
+L:1/8
+M:3/4
+I:linebreak $
+K:Gmaj
+[I:MIDI=program 59]D2^C3D | D4C2 | C2B,3C | C4B,2 | G2F2E2 | $
+A,3B,C2 | E2F3E | E3_B,=B,2 | D2^C3D | D4C2 | $
+C2B,3C | C4B,2 | G2F2E2 | D3ED2 | B2D2A2 |  [1G4D2 :|  [2G4FE :|  [3G4G2|]
+
+
+
+X:14
+T:'Joy'
+T:circa 1916
+C:Arthur Mabey Chanter (1866-1950)
+O:Australia
+S:https://nla.gov.au:443/tarkine/nla.obj-168741823
+S:J.W.Fletcher & Co. Publisher, London.
+L:1/8
+Q:1/4=70
+M:4/4
+K:Gmaj
+V:1
+[I:MIDI=program 58] GDDB, CDEF | GDDB, CDEF |$ B,^DFB AFAG | FA,B,D FGAB | E4 D2 z2 |$ CEGE CB,A,D | 
+w:Joy the heart sings in the spring time.|Joy of happy * summers * coming. *|Breath and bloom gay gardens * fragrance, *|all is still save bees * low *|humm- ing.|Joy heart sings at suns up ris- ing.|
+CEGE CB,A,D |$ FFGG ^DDEE | B,DEF GABc |$ A4 G2 |$ GFFB, CDEF |$ 
+w:Joy in sha- dy tea tree arch es.|Splash of wavelets * on the beach- es.|on- ward joy- ful summ- * er *|mar- ches.|Joy when summ- ers day is clo- sing.|
+GDDB, CDEF | B,^DFB AFAG |$ FA,B,D FGAB | E4 D2 z2 | CEGE CB,A,D |$ CEGE CB,A,D | FFGG ^DDEE |$ 
+w:Gent- lest breeze from south all cool- ing.|All the land a- glow with sun- light.|Then clear moon- light dark * o'er *|rul- ing.|Joy in sun- light, Joy in shad- ow.|Fill the heart with rar- est pleas- ure.|Hymns the ev- er glad- 'ning an- them.|
+B,DEF GABc | A4 G2 z2|] 
+w:Joy of earth in full * est *|Meas- ure.|
+
+X:15
+T:I've Got A Motor Bike Waiting For You
+C:Reginald Stoneham 1870-1942
+O:Australia
+L:1/8
+M:2/4
+I:linebreak $
+K:G
+"^Swing" D2 | E2 F2 || GA FG- | GA F2 | GA FG- | G z F2 | EF ^DE- | EF ^D z |$ EF ^DE- | E=D E^E | 
+w: Then|Bill Said,|I've got a mo|* tor bike|wai- ting for you,|* An|In- di- an Mo-|. tor bike|fit- ted for two,|* Ab- out a|
+F2 G2 | ^G A2 z | z F2 ^E | FD =EF | G2 A2 | ^A B2 z | z A2 ^G |$ A z D2 | GA FG- | G A2 F | 
+w: mile a|min- ute|we will|fly, And when I|get you|in it,|Say good-|bye, Oh!!|I know a ca-|. fe, a|
+GA FG- | G z F2 | E^D EA- | A^G A2 | B2 A2 | F2 D2 |$ GA BA- | AG E z | DE GE | ED B, z | EF GF- | 
+w: new one to you|* I've|fixed up a sup|* per for|two, So|Mai- sie,|Jump up and sit|* be- hind,|Cu- ddle up, I|do not mind,|Long as I'm cudd-|
+FG A2 | G4- | G z :| 
+w: . led by|you!||
+
+X:16
+T:What'll We Do, When The Wattle Blooms Again?
+C:Reginald Stoneham 1879-1942 
+O:Australia
+L:1/4
+Q:1/4=160
+M:2/2
+I:linebreak $
+K:Gmaj
+[I:MIDI=program 68]G, | G G G E | =F3 G, | =F2 F2 | E3 G, | G G G E | D3 D | E2 F2 |$ G3 G, | =F2 E F | E D2 E | 
+w:When|win- ters gloom is|o'er and|skies are|blue, and|all the world's in|love and|I love|you. When|we have for-|gott- en the|
+C D ^D E- | E3 z | D E F G- | G D2 B, |$ D C B, A, | D3 z || E ^D E =D- | D C2 A, | C B, A, C | B,3 z | 
+w:cold and the rain.||Whal- t'll we do|* when the|wa- ttle blooms a-|gain?|Wha- t'll we do|* when the|wa- ttle blooms a-|gain|
+A,2 z2 | B,2 G,2 |$ A,2 E2 | z2 G, G, | E2 E2 | D2 C2 | B,2 C2 | D3 z | D4 | A,4 | E4 | D4 | G,2 A,2 |$ 
+w:We'll|go a|roa- ming|by the|ri- vers|fringe of|wav- ing|gold|In|the|gloa-|ming.|Heart to|
+B,2 G,2 | C2 D E- | E3 z | A,2 A, B, | ^C2 A,2 | E2 _E D- | D3 z | E2 ^D E |$ G2 A E | E D ^C E | 
+w:heart and|hand to hand||Al- ways to|love and|un- der- stand||That's what we'll|do when the|wa- ttle blooms a-|
+D2 A,2 | E2 D2 | G2 E2 |1 C4- || C z z2 :|2 C4- || C2 z2 |] 
+w:gain. And|I come|back to|you!||||
+
+X:17
+T:Murray Moon
+T:from the 1920 musical "F.F.F." 
+C:lyrics C,J.DeGaris
+C:music Reginald Stoneham
+S:nla.obj-165511250
+O:Australia
+R:Foxtrot
+M:4/4
+L:1/8
+K:Gmaj
+[I: MIDI=program 59]B2c (BB2)G2 | A2B (AA2)F|(G8 | G4)z4 | 
+w:Like a bird*re-turn-ing to *it's nest
+B2c(BB2)G2 | A2B2A2F2 | (G8 | G2)G2A2B2 | 
+w:I will fly*to home sweet home and rest* It seems that
+c4(G4 | G2)G3/2^F/G3/2F/G3/A/ | B4(G4 | G2)B2B2B2 | 
+w:al-ways*I can hear the Murr-ay call-ing *in tones en-
+B4(A4 | A)zA2B2A2 | (d8 | d4)z4 | 
+w:thrall-ing*from out the west
+B2=c2B2G2 | A (BB2)A2F2 | (G8 | G4)z4 | 
+w:Drif-ting on it's bo-som* let me glide
+B2c (BB2)G2 | A2B2A2F2 | (G8 | G2)G2A2B2 | 
+w:Where the nat-*tive woo'd his dus-ky bride*And in the 
+dcd (cc4 |c2)G2A2^A2|c B c (BB4 | B2)B2A2G2 | 
+w:sha-dows of grey**just dream the hours*a-way**The night birds
+B4  (A4 | A2) A3/ 2B/ ^c2A2 | (d8 | d2)BcB|
+w:call-ing*at the close of day*the stars are
+B4(A4 | A2)c2B2A2 | (D8 | D2)E2F2G2 | 
+w:glea-ming* and there's a charm*that sets me
+A4(A4 | A2)A2c2c2 | (B8 | B2)B2c2B2 | 
+w:dream-ing*when all is calm *the sigh-ing
+B4(A4 | A2)c2B2A2 | (G8| G2)G2F2E2 | F4(A4 |  
+w:gum-trees*breath my-ste-ry*the rov-ing black men*I seem to
+A2)G2F2E2 |(A8 | A)zA2B2c2 | d4(d4 | d2)d2d2B2 | 
+w:*I seem to see* and through th moon light*they fade a-
+(^c8|c2)A2A2B2 | =c4(c4 | c2)c2B2^A2 | (B8 | 
+w:way*but leave a mem-'ry*of yes-ter day
+B2) B2 c2 B2 | B4(A4 | A2)c3/2c/B2A2 | (D8 | D)zD2E2G2 | 
+w:*I see my home-stead*by the big la-goon*'Twas but the
+A4(A4 | A)z A3/2B/c2B2 | (G8 | G)zBcB:|
+w:ma-gic*of the mu-rray moon
+
+X:18
+T:That Little Home Among The Hills
+T:introduced Fuller Brothers 1921 'BlueBeard'
+C:Vince Courtney (-1951)
+S:https://nla.gov.au:443/tarkine/nla.obj-172519553
+S:J Meredith, H Anderson, Folk Songs of Australia Vol 1, UNSW Press, p229, 1967
+O:Australia
+R:Country
+M:6/8
+L:1/8
+K:Gmaj
+[I: MIDI=program 59]()B3B2)^A | B2GE2D | ^C6  | A6 |
+w:I've *been we-ary for a long time
+=C2DE2F | (B3A3) | (D6 | D3)z3 | (B3B2)^A | B2GE2D | 
+w:Thin-king of a place  I know*There's *no oth-er place just
+(^C6 | A6) | B2EF2G | A3B3 | (A6 | A3)z3 | 
+w:like it. A-ny-where I seem to go
+(B3B2)^A | B2cB2E |(A6 | A2)^CE2G | B3_B3 | 
+w:It's*as pre-tty as can be*It seems that it was
+A3E3 | (A3A2)z3|:(B3B2)^A | B2ed2G | B2Ac2A | 
+w:Made for me* Give*me just that litt-le home a-mong the 
+E3F2G | B3A3 | F3E3 | (D6 | D3)z2F | G3G3 | 
+w:hills with the I-vy on the wall *the old arm-
+(G3G2)E | G2EG2E | F6 | A3A2B | A3G2E | 
+w:chair*fa-mil-iar fa-ces there. One wears an old fash-ioned 
+(A6 | A6) | (B3B2)^A | B2ed2B | (B3B2)A | 
+w:shawl*There's* no need to show me oth-*er
+E6 | F3G3 | A2dA2^A | (B6 | B3)z3 | 
+w:views. I've seen all your vales and rills
+c3B3 | (^G3G2)E | B3A3 | E3F2G | A (d2d3)|
+w:I don't want*an-oth-er thing 'cept that li-ttle
+c2AE2F | (G6 | G3)z3 :| 
+w:home a-mong the hills.
+
+
+X:25
+T:You'll Miss Me When I'm Gone
+T:Australia
+C:Jack Lumsdaine 
+S:nla.obj-167217135
+O:Australia
+R:Waltz
+M:4/4
+L:1/8
+K:Fmaj
+[I:MIDI=program 60]z2A,2C2F2|A4|z2=B,2 D2F2 | A4|
+w:It's par-ting hour and like some flower
+w:How can I smile, when all the while
+z2G2A2_B2 | c4G2^G2 | (A8 | A4)|
+w:Your love has with-ered and died
+w:I'm lone-ly as I can be
+z2A2G2F2 | E8 | z2G2F2E2 | F8 | 
+w:You bid me go. But still I know
+w:Just like some barque, when nights are dark
+z2D2E2F2 | A4F2D2 | (G8 | G4)||
+w:You'll want me back by your side
+w:Tossed by a wild stor-my sea
+A,8 | C2F2A2c2 | (^F8 | ^F6)z2 | =B,8 | 
+w:You'll miss me when I'm gone*You'll
+D2F2A2^G2 | (=G8 | G6)z2 | C8 | D2E2A2c2 | A8 | 
+w:want me la-ter on*Though oth-er arms may hold
+G8 | G4F2z2 | G4F2z2 | D2C2D2E2 | D2C2=B,2_B,2 | 
+w:You. You will stiill re-mem-ber love tales that I told you,
+A,8 | C2F2A2c2 | (^F8 | ^F6)z2 | =B,8 | 
+w:Each day will seem so long*Blue
+D2F2A2^G2|(=G8 | G6)z2 | F6E2 | G2F2E2F2|A6G2|
+w:birds won't sing their song. *Af-ter we have par-ted You'll be
+B2A2^G2A2 | c6C2 | B2B2A2A2 |  [1F6z2:|  [2F8 |] 
+w:broken* hearted*dear. You'll miss me when I'm gone
+
+X:27
+T:Take Me
+T:Australia
+C:Jack Lumsdaine 
+S:nla.obj-167754004
+O:Australia
+R:Ballad
+Q:"allegro" 1/4=140
+M:4/4
+L:1/8
+K:Gmajor
+[I: MIDI=program 72]d2e2d2B2 | A2G2A2B2 | G8 | d8 | d2e2d2B2 | A2G2A2B2 | 
+w:Just a long long years since last we met dear. All my re-sol-u-tions were in vain.
+(d8 | d6)z2 | c2d2e2c2 | B2A2B2c2 | A8 | 
+w:vain.* You have bro-ken down my fool-ish pride dear
+B8 | ^c2c2B2A2 | e2B4^c2 | (d8 | d6)||
+w:dear So I'm going to ask you ag-ain
+D2E2G2E2 | G4E4 | F4(d4 | d8) | D2E2F2c2 | 
+w:Take me with you when it's twi-light.* Take me where the 
+A4^A4 | (B8 | B6)z2 | E2F2^G2d2 | c4B4 | 
+w:sha-dows fall.* Take me down that win-ding
+d8 | c8 | A2B2A2G2 | F4E4 | (A8 | A6)z2|
+w:path-way. Take me where the | night birds call.
+D2E2G2E2 | G4E4 | F4(d4 | d8 )|
+w:Though we've drift-ed far a-part dear
+.e2.d2.e2.d2 | e2d2B2G2 | (c8 | B8) | 
+w:Sun-shine al-ways foll-ows af-ter rain. So
+A2G2F2G2 | A2G2F2G2 | e8 | .dz5E2 | c2E2^D2E2 | 
+w:sing to me love's old sweet song at twi-light, And take me in your
+B4B4 | (G8 |G4)z4:| 
+w:arms a-gain
+
+X:28
+T:Meadow Clover 1933
+T:(1925 Canon) 
+C:Louis Lavater 1867-1953
+S:nla.obj-171131563
+O:Australia
+R:Lullaby
+M:4/4
+L:1/8
+K:Cmaj
+[I:MIDI=program 59]E2EDF2(EF) | G3F(A2G2) | E2E D F3 B, | 
+w:Where go the sweets when* blos-soms lie*scat-tered the green sward
+(C2G4F2) | E2z6|c2 BA G3F | E2z6 | 
+w:o-**ver, Can all these o-dours die
+A2 ^G F E3 D | C2B,2z4 | ^G2G2(AF) (DA,)|
+w:Fade with the mead-ow clo-ver, Can these breath*-ing
+C2B,2(CD) E^F | (^F2G2A2)A2 | (D2G4^F)|  [1}G2z2 G=FED:|  [2G4z4|]
+w:o-dours fade* with the mead-**ow clo-**ver?
+
+
+X:40
+T:The Old Vintner
+T:from the 'Vintner of Vurzburg' 1898 
+T:(also called Daughter of Dijon or The Vintners Daughter) 
+C:Arthur Mabey Chanter (1866-1950)
+S:Australia
+S:nla.obj-179445882
+%%score 1 ( 2 3 ) 4
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice" snm="Vo."
+V:2 treble nm="Piano" snm="Pno."
+V:3 treble 
+V:4 bass nm="Piano" snm="Pno."
+V:1
+[I: MIDI=program 57]z2 | z6 | z6 | z6 | z6 | z6 | z4 G,G, ||$ CDE EDC | GGA GG,G, | CDE EDC | GGA G2 G |$ ccc GGG | 
+w: ||||||When a|cust- o- mer comes to my|cell- ar to try all my|vint- ag- es pu- re that|ne- ver but lie, my|spar- kl- ing mos- elle or|
+AAA B2 B | cBA dBG | DE^F G2 z |$ z2 z2 z G | dcB BAG | Bcd !fermata!e2 E | E^F^G AGA |$ 
+w: red and white wines as|warm as the sun shine that|peeps through the vines|And|when they don't re- lish my|wines, I say sure, you've|not drunk much li- quor you're|
+BAB c!fermata!cc | B>AB GGc | BAB G2 B | BAG cBA |$ G^F=F E!fermata!ed | ^c>BA ddd | ^c>Bc d2 e | 
+w: noconn oiss- eu- r of O.|port- o or sherry- rry or|chass- e- las wine of|Hock or Ma- dei- ra or|Bur- gun- dy wine, of O-|por- to or she- rry or|Chass- e- las fine, of|
+f>ed cEF |$ GAG E2 z | z6 | z2 z3 B, ||[K:E] B,DB, EEE | FGA G2 D |$ DFD G2 G | ^ABc B2 B | 
+w: Hock or Ma- dei- ra or|Bur- gun- dy wine||But|when from their vine- yards they|bring down their stock, they|press- ing their wines while|I mak- ing mock and|
+cFc BEB |$ AB,A GGG | FG,F EED | CB,C D2 z | z2 z3 D |$ CFF B,2 E | F>GA G2 B | AGF GAB |$ 
+w: you call this wine? Well you've|got a good name but the|real juice you know would quite|put it to shame|But|when I find fault then|they cry out true! You've|not drunk much liq- uor no|
+cB^A Bdd | cFc BEB | AB,A G2 G | AB,A GGG |$ FEF G2 G | cGG BAA | Bcd eeE |$ EFF GG,A, | 
+w: conn- oi- sseur you of o-|Port- o or sherry or Chass-|e- las fine of Hock|or Mad- eir- a or bur-|gun- dy wine * The|rhine wa- ters tim- ely would|be your best liquor and not|the Rhine wines at their bo-|
+B,CB, E,E, z |]
+w: dy you'd * bick- er|| 
+V:2
+z2 | z6 | D2 z B,2 z | E2 z E2 z | E2 z E2 z | [Ece] z z [Bg]3- | [Bg]3- [Bg] z2 ||$ 
+V:3
+x2 | x6 | GGA BAG | ccd edc | edc edc | x6 | x6 ||$ 
+V:4
+G,,G,, | C,D,E, E,D,C, | B,,2 z G,,2 z | A,,2 z [E,,E,]2 z | [F,,F,]2 z [^F,,^F,]2 z | 
+[G,,G,] z2 [G,F]3- | [G,F]3- [G,F]!mp!G,,G,, ||$ 
+
+X:43
+T:Scenes That Are Brightest
+T:from 'Maritana' 1846
+C:William Vincent Wallace
+C:Bush Hotel, Launceston, Australia
+S:from 'Maritana'
+S:https://nla.obj-169600771
+H:Eyewitness heard Wallace perform the aria beside the derwent river six years before the London premiere of the opera 'Maritana'
+H:Wallace lived in Australia for just three years, the bulk of his life and career elsewhere. 
+R:Opera Aria
+M:4/4
+L:1/8
+K:Cmaj
+[I:MIDI=program 58]G4E2c2 | G4E2(3G,CF | (E4D2)(3B,DF | 
+w:Scenes that are bright-est may**charm*a**
+w:words can not scat-ter the** thoughts *we**
+(A4G2)z2|G4E2c2 | G4E2(3G,CF | (G4D2)(3G,B,D | 
+w:while*  hearts which are light-est And** eyes* that**
+w:fear*For though they flat-ter they** mock*the
+C4z3E | A4B2c2 | B4E2z2 | (c2>BA)B2E2|
+w:smile Yet o'er them a-bove us, though** nat-ure
+w:ear. Hopes will still de-cieve us, with** tear-ful
+(A4_A3)G | G4E2c2 | G4E2(3G,CF | (E4D2) (3B,DF | 
+w:beam* with none* to love us how** sad* they**
+w:cost*And when* they leave us The** heart* is
+(A4G2)zG | (G4E2)c2 |(G4E2)(3CEA | G4(8d/2 B/2 G/2 ^G/2 A/2 F/2 D/2 B,/2 E3/2D/2|C4z4 :| 
+w:seem* with none* to love us How** Sad******** They* seem.
+w:lost.* And when* they leave us the **heart******** is* lost.
